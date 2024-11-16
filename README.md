@@ -16,74 +16,123 @@ User Signup/login
 Dashboard Functionality
 
 Travel Listings Display
+
 Search Functionality
+
 Services Page
+
 Social Media Integration
+
 Performance Testing
+
 Error Handling and Validation
+
 Add-to-Cart Functionality
 
 # Testing Approach
 Requirement Analysis
+
 Test Design
+
 Test Types
+
 Test Execution
+
 Defect Management
+
 Tools and Environment Setup
+
 Entry and Exit Criteria
+
 Risk Mitigation
 
 # Roles and Responsibilities 
 Test Manager
+
 Test Lead
+
 Test Engineers/QA Analysts
+
 Developers
+
 Product Owner
+
 # Test Deliverables
 Test Plan Document
+
 Test Scenarios and Test Cases
+
 Test Data
+
 Bug Reports
 
 # Entry and Exit Criteria
+
 ## Entry Criteria
 Requirement Finalization
+
 Test Plan Approval
+
 Availability of Test Artifacts
+
 Environment Readiness
+
 Code Deployment
+
 Tool Accessibility
+
 Availability of Test Team
+
 ## Exit Criteria
 Test Case Execution
+
 Defect Resolution
+
 Test Coverage
+
 UAT Completion
+
 Performance Metrics Met
+
 Documentation Delivery
 
 # Tools
 Google Doc
-Google Sheet 
+
+Google Sheet
+
 Jira
+
 MindMap
 
 # Risks and Mitigation
 Technical Risks
+
 Functional Risks
+
 Usability Risks
+
 Schedule Risks
+
 Security Risks
+
 Data Risks
+
 Deployment Risks
 
 # Approvals
 Test Plan Approval
+
 Test Environment Setup Approval
+
 Test Data Approval
+
 Entry Criteria Approval
+
 Bug Fix and Regression Testing Approval
+
 Exit Criteria Approval
+
 Final Deployment Approval
 
 
