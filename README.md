@@ -12,7 +12,9 @@ The Travel Trakker platform is designed to provide users with an intuitive inter
 
 # Testable Features
 User Signup/login
+
 Dashboard Functionality
+
 Travel Listings Display
 Search Functionality
 Services Page
